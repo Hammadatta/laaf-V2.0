@@ -392,7 +392,11 @@ See [SECURITY.md](SECURITY.md) for the full responsible disclosure policy.
 
 ---
 
-## Contributing
+Maintainers
+Hammad Atta — hatta@qorvexconsulting.com Qorvex Consulting
+
+Contributors
+Dr. Yasir Mehmood, Dr. Zeeshan Baig, Dr. Muhammad Aatif, Dr. Muhammad Aziz ul haq, Kamal Noor
 
 Contributions welcome — techniques, platforms, report formats.
 
